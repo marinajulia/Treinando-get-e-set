@@ -1,0 +1,12 @@
+C:\Users\Marina\source\repos\Exercício6\Exercício6\bin\Debug\netcoreapp3.1\Exercício6.exe
+C:\Users\Marina\source\repos\Exercício6\Exercício6\bin\Debug\netcoreapp3.1\Exercício6.deps.json
+C:\Users\Marina\source\repos\Exercício6\Exercício6\bin\Debug\netcoreapp3.1\Exercício6.runtimeconfig.json
+C:\Users\Marina\source\repos\Exercício6\Exercício6\bin\Debug\netcoreapp3.1\Exercício6.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Exercício6\Exercício6\bin\Debug\netcoreapp3.1\Exercício6.dll
+C:\Users\Marina\source\repos\Exercício6\Exercício6\bin\Debug\netcoreapp3.1\Exercício6.pdb
+C:\Users\Marina\source\repos\Exercício6\Exercício6\obj\Debug\netcoreapp3.1\Exercício6.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Exercício6\Exercício6\obj\Debug\netcoreapp3.1\Exercício6.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Exercício6\Exercício6\obj\Debug\netcoreapp3.1\Exercício6.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Exercício6\Exercício6\obj\Debug\netcoreapp3.1\Exercício6.dll
+C:\Users\Marina\source\repos\Exercício6\Exercício6\obj\Debug\netcoreapp3.1\Exercício6.pdb
+C:\Users\Marina\source\repos\Exercício6\Exercício6\obj\Debug\netcoreapp3.1\Exercício6.genruntimeconfig.cache
